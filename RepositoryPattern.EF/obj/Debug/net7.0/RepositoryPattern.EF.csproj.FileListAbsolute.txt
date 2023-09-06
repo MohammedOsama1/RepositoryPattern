@@ -1,0 +1,17 @@
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.deps.json
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.runtimeconfig.json
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.dll
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.pdb
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.Core.dll
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.Core.pdb
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.csproj.AssemblyReference.cache
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.AssemblyInfoInputs.cache
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.AssemblyInfo.cs
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.csproj.CoreCompileInputs.cache
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.csproj.CopyComplete
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.dll
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\refint\RepositoryPattern.EF.dll
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.pdb
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.genruntimeconfig.cache
+C:\Users\osama.MAHAM\source\repos\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net7.0\ref\RepositoryPattern.EF.dll
